@@ -62,8 +62,6 @@ npm install
 npm start
 ```
 
-> **Nota Importante**: Al descargar el proyecto, es normal ver errores en el código hasta que ejecutes `npm install`. Este comando descarga las librerías necesarias (node_modules) que no se incluyen en el repositorio por su peso.
-
 La aplicación estará disponible en: **http://localhost:4200**
 
 ## Credenciales de Acceso
@@ -76,4 +74,5 @@ Para probar la funcionalidad completa (Crear, Editar, Eliminar productos), inici
 
 
 &copy; 2026 
+
 
