@@ -1,4 +1,4 @@
-# Sistema de Gestión de Productos (CRUD Full Stack)
+# Sistema de Gestión de Productos 
 
 Este repositorio contiene una solución completa de **Gestión de Productos** implementada con una arquitectura moderna y robusta, diseñada para ser escalable y segura.
 
@@ -76,3 +76,4 @@ Para probar la funcionalidad completa (Crear, Editar, Eliminar productos), inici
 
 
 &copy; 2026 
+
